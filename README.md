@@ -61,6 +61,7 @@
 <br>
 
 ## Scripting Examples
+### Account Updater for MySql DB
 ```python
 ### Upload accounts to basic MySql server hosted on raspberryPi at SICTC
 import pandas as pd
