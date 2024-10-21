@@ -3,6 +3,7 @@
 
 <a href="https://www.linkedin.com/in/jonathanr-baker/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s" width = 50px href="https://www.linkedin.com/in/jonathanr-baker/"></a>
 <a href = "https://github.com/JorBackend"><img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width=50px></a>
+<a href = "mailto:jonathanr.baker2007@gmail.com"><img src = "https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" width = 50px></a>
 
 <b>I am 17 years old and I go to Castle High School and SICTC</b>
 
