@@ -1,6 +1,8 @@
 # About Jonathan Baker
 <img src = "https://media.licdn.com/dms/image/v2/D5603AQHs0hKqKgP-Jw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1719783800192?e=1735171200&v=beta&t=wXPsLKBAqQlwl6x6FIL8MzijRx5kW-tyuCzKuPd5Tlk">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s" width = 50px href="https://www.linkedin.com/in/jonathanr-baker/"><img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width=50px>
+
+<a href="https://www.linkedin.com/in/jonathanr-baker/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s" width = 50px href="https://www.linkedin.com/in/jonathanr-baker/"></a>
+<a href = "https://github.com/JorBackend"><img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width=50px></a>
 
 <b>I am 17 years old and I go to Castle High School and SICTC</b>
 
